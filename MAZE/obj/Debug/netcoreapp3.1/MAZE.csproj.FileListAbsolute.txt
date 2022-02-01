@@ -1,0 +1,27 @@
+C:\Users\user\source\repos\MAZE\MAZE\bin\Debug\netcoreapp3.1\MAZE.exe
+C:\Users\user\source\repos\MAZE\MAZE\bin\Debug\netcoreapp3.1\MAZE.deps.json
+C:\Users\user\source\repos\MAZE\MAZE\bin\Debug\netcoreapp3.1\MAZE.runtimeconfig.json
+C:\Users\user\source\repos\MAZE\MAZE\bin\Debug\netcoreapp3.1\MAZE.runtimeconfig.dev.json
+C:\Users\user\source\repos\MAZE\MAZE\bin\Debug\netcoreapp3.1\MAZE.dll
+C:\Users\user\source\repos\MAZE\MAZE\bin\Debug\netcoreapp3.1\MAZE.pdb
+C:\Users\user\source\repos\MAZE\MAZE\obj\Debug\netcoreapp3.1\MAZE.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\MAZE\MAZE\obj\Debug\netcoreapp3.1\MAZE.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\MAZE\MAZE\obj\Debug\netcoreapp3.1\MAZE.AssemblyInfo.cs
+C:\Users\user\source\repos\MAZE\MAZE\obj\Debug\netcoreapp3.1\MAZE.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\MAZE\MAZE\obj\Debug\netcoreapp3.1\MAZE.dll
+C:\Users\user\source\repos\MAZE\MAZE\obj\Debug\netcoreapp3.1\MAZE.pdb
+C:\Users\user\source\repos\MAZE\MAZE\obj\Debug\netcoreapp3.1\MAZE.genruntimeconfig.cache
+C:\Users\negor\OneDrive\Рабочий стол\MAZE\MAZE\bin\Debug\netcoreapp3.1\MAZE.exe
+C:\Users\negor\OneDrive\Рабочий стол\MAZE\MAZE\bin\Debug\netcoreapp3.1\MAZE.deps.json
+C:\Users\negor\OneDrive\Рабочий стол\MAZE\MAZE\bin\Debug\netcoreapp3.1\MAZE.runtimeconfig.json
+C:\Users\negor\OneDrive\Рабочий стол\MAZE\MAZE\bin\Debug\netcoreapp3.1\MAZE.runtimeconfig.dev.json
+C:\Users\negor\OneDrive\Рабочий стол\MAZE\MAZE\bin\Debug\netcoreapp3.1\MAZE.dll
+C:\Users\negor\OneDrive\Рабочий стол\MAZE\MAZE\bin\Debug\netcoreapp3.1\MAZE.pdb
+C:\Users\negor\OneDrive\Рабочий стол\MAZE\MAZE\obj\Debug\netcoreapp3.1\MAZE.csproj.AssemblyReference.cache
+C:\Users\negor\OneDrive\Рабочий стол\MAZE\MAZE\obj\Debug\netcoreapp3.1\MAZE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\negor\OneDrive\Рабочий стол\MAZE\MAZE\obj\Debug\netcoreapp3.1\MAZE.AssemblyInfoInputs.cache
+C:\Users\negor\OneDrive\Рабочий стол\MAZE\MAZE\obj\Debug\netcoreapp3.1\MAZE.AssemblyInfo.cs
+C:\Users\negor\OneDrive\Рабочий стол\MAZE\MAZE\obj\Debug\netcoreapp3.1\MAZE.csproj.CoreCompileInputs.cache
+C:\Users\negor\OneDrive\Рабочий стол\MAZE\MAZE\obj\Debug\netcoreapp3.1\MAZE.dll
+C:\Users\negor\OneDrive\Рабочий стол\MAZE\MAZE\obj\Debug\netcoreapp3.1\MAZE.pdb
+C:\Users\negor\OneDrive\Рабочий стол\MAZE\MAZE\obj\Debug\netcoreapp3.1\MAZE.genruntimeconfig.cache
